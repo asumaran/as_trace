@@ -1,4 +1,6 @@
-# Simple PHP logger
+# Simple PHP Trace logger
+
+Beautifully format PHP's `debug_backtrace` so it can be used in logs
 
 ## Usage
 
